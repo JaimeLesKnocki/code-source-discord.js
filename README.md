@@ -1,2 +1,1 @@
-# code-source-discord.js
-code source discord.js ( bot discord )
+les code mis a disposition sont en open source , vous pouvez les utiliser librement :) { mention accepter }
